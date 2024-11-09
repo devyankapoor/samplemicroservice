@@ -66,7 +66,7 @@ server.port=8081
 If the application cannot connect to MongoDB, ensure that MongoDB is running and accessible at the configured URI. You can start MongoDB using:
 
 ```bash
-sudo systemctl start mongod
+sudo systemctl start mongodb
 ```
 
 ## License
